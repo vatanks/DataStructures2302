@@ -1,5 +1,5 @@
 #Course: CS 2302 Data Structures
-#Assignment: Lab 3 Part 2
+#Assignment: Lab 2 Part 2
 #TA: Anindita Nath
 #Professor: Olac Fuentes
 #Lab purpose: sorting algorithms implemented in different ways
